@@ -1,4 +1,4 @@
-if !exists('g:loaded_config_neoyank')
+if exists('g:loaded_config_neoyank')
 	finish
 endif
 
